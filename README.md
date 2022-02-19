@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nikole, also known here as @hiki1010</h1>
 <h3 align="center">Free developer ~~~</h3>
 
-- 🔭 I’m currently working on **project "100 programs in Python"**
-
 - 🌱 I’m currently learning **Python and Java.**
-
-- 📫 How to reach me **...mmm, one day I will post here.**
 
 
 <h3 align="left">Languages and Tools (that I have ever worked):</h3>
