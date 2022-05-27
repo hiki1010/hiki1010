@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Nikole, also known here as @hiki1010</h1>
 <h3 align="center">Free developer ~~~</h3>
-- 🔭 I’m currently working on **Python and Java**.
-- 🌱 I’m currently learning   **web technologies**.
+
+- 🔭 I’m currently working on Python and Java.
+- 🌱 I’m currently learning   web technologies.
 - 📝 Now I'm working on my games and the final project.
 
 
